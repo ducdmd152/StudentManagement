@@ -41,4 +41,4 @@
     
 ### 3. Project Structure: using **repository pattern**
 
-![Project Structure]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10b0103d-619e-4178-a02f-7604101b4b80/Untitled.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F10b0103d-619e-4178-a02f-7604101b4b80%2FUntitled.png?table=block&id=f7e95cfd-d3b6-4785-a7a0-97305129e17d&spaceId=1551a6a5-44bd-46da-8d5d-f7a8f68253e4&width=1540&userId=0d2bf151-ad58-4f63-a5d0-7f3a6dfc5763&cache=v2))
+![Project Structure](studentmanagement-structure.png)
